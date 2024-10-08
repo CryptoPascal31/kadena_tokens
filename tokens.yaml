@@ -248,6 +248,20 @@ mainnet:
       - type: discord
         url: https://discord.com/invite/GghUdhmk6z
 
+  n_c89f6bb915bf2eddf7683fdea9e40691c840f2b6.cwc:
+    symbol: CWC
+    name: CWC
+    description:
+    img: img/cwc.png
+    totalSupply: 4000000
+    circulatingSupply: 3999540
+    color: "#a22726"
+    precision: 12
+    socials:
+      - type: website
+        url: guardiansofkadena.com
+      - type: twitter
+        url: https://x.com/GuardiansofKDA
 
 testnet:
   coin:
